@@ -1,0 +1,10 @@
+vpc_cidr_block    = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+avail_zone        = "us-east-2a"
+env_prefix        = "dev"
+instance_type     = "t2.large"
+domain_name       = "roland.com"
+record_name       = "new record"
+key               = "key10"
+instance_class    = "db.t3.micro"
+
